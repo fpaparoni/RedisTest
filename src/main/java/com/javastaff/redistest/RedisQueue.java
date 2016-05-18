@@ -1,6 +1,5 @@
 package com.javastaff.redistest;
 
-import java.util.List;
 import redis.clients.jedis.Jedis;
 
 public class RedisQueue {
